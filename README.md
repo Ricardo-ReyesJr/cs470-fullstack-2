@@ -1,4 +1,4 @@
-# cs470-fullstack-2
+# CS-470 Full Stack 2
 > **CS-470 Full Stack Development II - Final Reflection**
 > Ricardo Reyes Jr.
 > Southern New Hampshire University
